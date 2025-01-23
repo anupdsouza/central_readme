@@ -1,0 +1,9 @@
+## Stay Connected 🤙🏼
+- <picture><img align="center" alt="star the repo" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/star.png" height="20" hspace="5"></picture><a href="https://github.com/anupdsouza/ios-scratch-card-view">Star the Repo</a>
+- <picture><img align="center" alt="youtube" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/ic-yt.png" height="20" hspace="5"></picture><a href="https://www.youtube.com/@areaswiftyone">Subscribe on YouTube</a>
+- <picture><img align="center" alt="buymeacoffee" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/ic-bmc.png" height="20" hspace="5"></picture><a href="https://www.buymeacoffee.com/adsouza">Buy Me a Coffee</a>
+- <picture><img align="center" alt="patreon" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/ic-patreon.png" height="20" hspace="5"></picture><a href="https://patreon.com/adsouza">Become a Patron</a>
+- <picture><img align="center" alt="x" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/ic-x.png" height="20" hspace="5"></picture><a href="https://x.com/swift_odyssey">Follow me on X</a>
+- <picture><img align="center" alt="github" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/ic-gh.png" height="20" hspace="5"></picture><a href="https://github.com/anupdsouza">Follow me on GitHub</a>
+
+Your support makes projects like this possible!
