@@ -1,12 +1,11 @@
 ## Support
-Star the Repo if you found this useful:
-<img align="center" alt="startherepo" src="https://raw.githubusercontent.com/anupdsouza/ios-miscellaneous/main/starrepo.gif" height="50"><br/>
 
-<p>
-Support Me:
-<a href="https://www.buymeacoffee.com/anupdsouza"><img align="center" src="https://raw.githubusercontent.com/anupdsouza/ios-miscellaneous/main/bmc.png" height="30"></a>
-<a href="https://patreon.com/anupdsouza"><img align="center" src="https://raw.githubusercontent.com/anupdsouza/ios-miscellaneous/main/patreon.png" height="30"></a>
-<a href="https://www.youtube.com/@areaswiftyone"><img align="center" src="https://raw.githubusercontent.com/anupdsouza/ios-miscellaneous/main/subscribe.png" height="30"></a>
-</p>
-<sub>Your support makes projects like this possible ❤️</sub>
+Star the repo if you found this useful:
 
+<img align="center" src="https://raw.githubusercontent.com/anupdsouza/ios-miscellaneous/main/starrepo.gif" height="50">
+
+<br/>
+
+[![Buy%20Me%20a%20Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/anupdsouza)
+[![Become a Patron](https://img.shields.io/badge/Become%20a%20Patron-F96854?logo=patreon&logoColor=white)](https://patreon.com/anupdsouza)
+[![Subscribe on YouTube](https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@areaswiftyone)
