@@ -1,6 +1,5 @@
 ## Stay Connected
 
-[![Star this Repo](https://img.shields.io/badge/Star%20this%20Repo-2ea44f?logo=github&logoColor=white)]({{repo_url}})
 [![Follow on GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-6e7781?logo=github&logoColor=white)](https://github.com/anupdsouza)
 [![Subscribe on YouTube](https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@areaswiftyone)
 [![Follow on X](https://img.shields.io/badge/Follow%20on%20X-1DA1F2?logo=x&logoColor=white)](https://x.com/areaswiftyone)
