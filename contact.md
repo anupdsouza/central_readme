@@ -1,7 +1,8 @@
 ## Stay Connected 🤙🏼
-- <picture><img align="center" alt="star the repo" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/star.png" height="20" hspace="5"></picture><a href="https://github.com/anupdsouza/ios-scratch-card-view">Star the Repo</a>
-- <picture><img align="center" alt="github" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/ic-gh.png" height="20" hspace="5"></picture><a href="https://github.com/anupdsouza">Follow me on GitHub</a>
-- <picture><img align="center" alt="youtube" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/ic-yt.png" height="20" hspace="5"></picture><a href="https://www.youtube.com/@areaswiftyone">Subscribe on YouTube</a>
-- <picture><img align="center" alt="x" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/ic-x.png" height="20" hspace="5"></picture><a href="https://x.com/areaswiftyone">Follow me on X</a>
-- <picture><img align="center" alt="buymeacoffee" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/ic-bmc.png" height="20" hspace="5"></picture><a href="https://www.buymeacoffee.com/anupdsouza">Buy Me a Coffee</a>
-- <picture><img align="center" alt="patreon" src="https://github.com/anupdsouza/ios-miscellaneous/blob/bf5cb23d0ffbb21afa7b442540a7682df27c3b12/ic-patreon.png" height="20" hspace="5"></picture><a href="https://patreon.com/anupdsouza">Become a Patron</a>
+
+- <img src="https://raw.githubusercontent.com/anupdsouza/ios-miscellaneous/main/star.png" height="20"> [Star this Repo]({{REPO_URL}})
+- <img src="https://raw.githubusercontent.com/anupdsouza/ios-miscellaneous/main/ic-gh.png" height="20"> [Follow me on GitHub](https://github.com/anupdsouza)
+- <img src="https://raw.githubusercontent.com/anupdsouza/ios-miscellaneous/main/ic-yt.png" height="20"> [Subscribe on YouTube](https://www.youtube.com/@areaswiftyone)
+- <img src="https://raw.githubusercontent.com/anupdsouza/ios-miscellaneous/main/ic-x.png" height="20"> [Follow me on X](https://x.com/areaswiftyone)
+- <img src="https://raw.githubusercontent.com/anupdsouza/ios-miscellaneous/main/ic-bmc.png" height="20"> [Buy Me a Coffee](https://www.buymeacoffee.com/anupdsouza)
+- <img src="https://raw.githubusercontent.com/anupdsouza/ios-miscellaneous/main/ic-patreon.png" height="20"> [Become a Patron](https://patreon.com/anupdsouza)
